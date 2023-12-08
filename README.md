@@ -2,6 +2,8 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=alexyskoutnev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
+
+<div>
 <a href="https://alexyskoutnev.github.io/">
     <img src="https://img.shields.io/badge/Website-alexyskoutnev.github.io-green?style=flat-square">
 </a>  
@@ -14,6 +16,7 @@
 <a href='https://scholar.google.com/citations?user=QhnjZwAAAAJ&user=_QhnjZwAAAAJ' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
+</div>
 
 * 📖 Pursuing PhD in Computer Science @ [Vanderbilt University](https://www.vanderbilt.edu/)
 

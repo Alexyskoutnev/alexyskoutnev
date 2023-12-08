@@ -1,3 +1,7 @@
+<a href="https://github.com/alexyskoutnev">
+    <img src="https://github-stats-alpha.vercel.app/api?username=alexyskoutnev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
 * 📖 Pursuing PhD in Computer Science @ [Vanderbilt University](https://www.vanderbilt.edu/)
 
 * 🎓 Conducting research on **AI** and **Robotics** @ [VAMPIR Lab](https://vampir-lab.github.io/)

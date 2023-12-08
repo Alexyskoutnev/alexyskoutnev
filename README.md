@@ -29,7 +29,7 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Robotics</th></tr>
+<tr><th>Robotics</th><th> AI </th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
@@ -41,5 +41,14 @@
 | [SLAM-RRT ROS](https://github.com/Alexyskoutnev/SLAM-RRT-Navigation-Stack) | <img alt="Stars" src="https://img.shields.io/github/stars/Alexyskoutnev/SLAM-RRT-Navigation-Stack?style=flat-square&labelColor=black"/> | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) |
 
 </td><td>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [TurboInfernce](https://github.com/Alexyskoutnev/TurboInference) | <img alt="Stars" src="https://img.shields.io/github/stars/alexyskoutnev/TurboInference?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-FFD700?style=flat-square) |
+| [Machine Learing Tutorial](https://github.com/Alexyskoutnev/Machine-Learning-Tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/alexyskoutnev/Machine-Learning-Tutorial?style=flat-square&labelColor=black"/> | 
+| [Delivery Controller](https://github.com/Alexyskoutnev/Delivery-Controller) | <img alt="Stars" src="https://img.shields.io/github/stars/alexyskoutnev/Delivery-Controller?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+| [SecurityGPT](https://github.com/Alexyskoutnev/SecurityGPT) | <img alt="Stars" src="https://img.shields.io/github/stars/alexyskoutnev/SecurityGPT?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-3DDC84?style=flat-square&logo=natural-language-processing&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-FFD700?style=flat-square&logo=language-model&logoColor=white)
+|
+
 
 </td></tr> </table>

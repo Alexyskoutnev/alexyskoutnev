@@ -1,16 +1,15 @@
-### Hi there 👋
+* 📖 Pursuing PhD in Computer Science @ Vanderbilt University
 
-<!--
-**Alexyskoutnev/alexyskoutnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Conducting research on **AI** and **Robotics** @ [VAMPIR Lab](https://aicip.github.io/research.htm](https://vampir-lab.github.io/).
 
-Here are some ideas to get you started:
+* 💻 Currently building Multi-Agent Reinforcement Learning Humanoids
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>Robotics</th></tr>
+<tr><td>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [QTOS](https://github.com/drkostas/Minecraft-AI) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+</td><td>

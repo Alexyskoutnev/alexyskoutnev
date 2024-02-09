@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/alexyskoutnev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alexy Skoutnev;AI | Robotics | Software Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alexy Skoutnev;Research | AI | Robotics" alt="Typing SVG" />
 </a>
 <a href="https://github.com/alexyskoutnev">
     <img src="https://github-stats-alpha.vercel.app/api?username=alexyskoutnev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">

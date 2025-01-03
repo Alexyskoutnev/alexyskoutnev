@@ -21,8 +21,8 @@
 </p>
 </p>
 
-* 🎓 M.S. in Computer Science | Vanderbilt University
-* 💻 Lead SDE/AI Engineer: Predictive Analytics & Market Data Infrastructure for Fixed Income
+* M.S. in Computer Science | Vanderbilt University
+* 💻 I enjoy building hard AI systems/models, with experience in robotics, and finance/trading systems. I open source a lot of my work when possible, feel free to contact me for support or collaborations
 * 🤖 Previous academic work in Multi-Agent RL and Robotic Locomotion
 
 ### 🖥️ Open-Source Projects

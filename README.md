@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/alexyskoutnev">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alexy Skoutnev; AI | Robotics | Research" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alexy Skoutnev; AI | SDE | Research" alt="Typing SVG" />
 </a>
 <a href="https://github.com/alexyskoutnev">
     <img src="https://github-stats-alpha.vercel.app/api?username=alexyskoutnev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -22,8 +22,8 @@
 </p>
 
 * 🎓 M.S. in Computer Science | Vanderbilt University
-* 💻 Leading AI systems for quantitative modeling and large-scale financial data infrastructure
-* 🤖 Research in Multi-Agent RL and Robotic Locomotion
+* 💻 Lead SDE/AI Engineer: Predictive Analytics & Market Data Infrastructure for Fixed Income
+* 🤖 Previous academic work in Multi-Agent RL and Robotic Locomotion
 
 ### 🖥️ Open-Source Projects
 <table>

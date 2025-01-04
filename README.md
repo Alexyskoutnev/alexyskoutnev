@@ -21,9 +21,9 @@
 </p>
 </p>
 
-* M.S. in Computer Science | Vanderbilt University
-* 💻 I enjoy building hard AI systems/models, with experience in robotics, and finance/trading systems.
-* 🤖 Previous academic work in Multi-Agent RL and Robotic Locomotion
+* M.S. in Computer Science @ Vanderbilt University
+* 💻 I enjoy developing complex AI systems and models, with experience in robotics and quantitative trading applications
+* 🤖 Previous academic work in Multi-Agent RL and Humanoid/Quadruped Locomotion
 
 ### 🖥️ Open-Source Projects
 <table>

@@ -6,9 +6,9 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=alexyskoutnev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 <p align="center">
-<a href="https://alexyskoutnev.github.io/">
+<!-- <a href="https://alexyskoutnev.github.io/">
     <img src="https://img.shields.io/badge/Website-alexyskoutnev.github.io-green?style=flat-square">
-</a>  
+</a>   -->
 <a href="https://www.linkedin.com/in/alexyskoutnev/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>

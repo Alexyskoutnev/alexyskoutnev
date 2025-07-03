@@ -4,21 +4,30 @@
 
 <div align="center">
 
-<h1>Alexy Skoutnev</h1>
-<i>Building AI systems that ship (....sometimes)</i>
+<!-- Static name + animated tagline share a left-aligned block -->
+<div style="display:inline-block; text-align:left;">
 
+<h1 style="margin:0;">Alexy&nbsp;Skoutnev</h1>
+
+<!-- Animated tagline with ‘surprise’ reveal -->
+<img
+  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1200&color=ADB7BD&center=false&vCenter=true&width=600&height=45&lines=Building+AI+systems+that+ship;Building+AI+systems+that+ship+%28%E2%80%A6sometimes%29"
+  alt="Typing animation of tagline"
+/>
+
+</div>
+
+<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexyskoutnev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexyskoutnev@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QhnjZwAAAAJ)
 
 <br/>
 
-<a href="https://github.com/alexyskoutnev">
-  <img
-    src="https://github-stats-alpha.vercel.app/api?username=alexyskoutnev&cc=22272e&tc=37BCF6&ic=fff&bc=0000"
-    alt="GitHub Stats"
-  />
-</a>
+<img
+  src="https://github-stats-alpha.vercel.app/api?username=alexyskoutnev&cc=22272e&tc=37BCF6&ic=fff&bc=0000"
+  alt="GitHub Stats"
+/>
 
 </div>
 

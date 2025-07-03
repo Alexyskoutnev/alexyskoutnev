@@ -50,7 +50,7 @@
 
 ---
 
-### 🌱 Currently 
+### 🧑‍💻 In the Trenches
 - **Athena AIC — Founding Engineer**  
   Architecting a generative-AI market-intelligence platform that turns raw data into real-time, investor-grade insights.
   

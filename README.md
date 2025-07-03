@@ -34,9 +34,9 @@
 ### 🛠 Previous Indie Projects
 | Project | ⭐ Stars | Stack / Notes |
 |---------|:------:|--------------|
-| **SecurityGPT** – AI red-team assistant | ![Stars](https://img.shields.io/github/stars/alexyskoutnev/SecurityGPT?style=social) | LLM · PyTorch |
-| **QTOS** – Quadruped Trajectory Optimization Stack | ![Stars](https://img.shields.io/github/stars/alexyskoutnev/Quadruped-Trajectory-Optimization-Stack?style=social) | Python · C++ · Docker |
-| **PRELUDE** – Robust Perception for Legged Robots | ![Stars](https://img.shields.io/github/stars/UT-Austin-RPL/PRELUDE?style=social) | PyTorch · C++ · CV|
+| [**SecurityGPT (Indie)**](https://github.com/Alexyskoutnev/SecurityGPT) – AI red-team assistant | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/SecurityGPT?style=social) | LLM · PyTorch |
+| [**QTOS (Ph.D. Research)**](https://github.com/Alexyskoutnev/Quadruped-Trajectory-Optimization-Stack) – Quadruped Trajectory Optimization Stack | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/Quadruped-Trajectory-Optimization-Stack?style=social) | Python · C++ · Docker |
+| [**PRELUDE (Ph.D. Research)**](https://github.com/UT-Austin-RPL/PRELUDE) – Robust Perception for Legged Robots | ![Stars](https://img.shields.io/github/stars/UT-Austin-RPL/PRELUDE?style=social) | PyTorch · C++ · CV |
 
 ---
 

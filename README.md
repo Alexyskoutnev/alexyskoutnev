@@ -34,10 +34,10 @@
 ---
 
 ### 🎓 About Me
-- **M.S. Computer Science** — Vanderbilt University  
-- **Industry:** LLMs · FinTech · RL 
+- **⚓️ M.S. Computer Science — Vanderbilt University**  
+- **🤘 B.S. Mathematics — The University of Texas at Austin**  
+- **Industry:** LLMs · FinTech · RL  
 - **Research:** Multi-Agent RL, LLMs
-
 ---
 
 ### 🛠 Previous Indie Projects

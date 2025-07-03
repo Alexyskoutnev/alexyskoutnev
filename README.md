@@ -54,7 +54,7 @@
 - **Athena AIC — Founding Engineer**  
   Architecting a generative-AI market-intelligence platform that turns raw data into real-time, investor-grade insights.
   
-- **NICE Intelligence (Nashville) — AI Researcher/Co-Founder**  
+- **NICE Intelligence — AI Researcher/Co-Founder**  
   Researching cool ideas in large-language models, machine learning, and deep learning and putting Nashville’s AI scene on the map
 
 <!-- END OF README -->

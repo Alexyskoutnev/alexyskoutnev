@@ -34,9 +34,10 @@
 ### 🛠 Previous Indie Projects
 | Project | ⭐ Stars | Stack / Notes |
 |---------|:------:|--------------|
-| [**SecurityGPT (Indie)**](https://github.com/Alexyskoutnev/SecurityGPT) – AI red-team assistant | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/SecurityGPT?style=social) | LLM · PyTorch |
-| [**QTOS (Ph.D. Research)**](https://github.com/Alexyskoutnev/Quadruped-Trajectory-Optimization-Stack) – Quadruped Trajectory Optimization Stack | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/Quadruped-Trajectory-Optimization-Stack?style=social) | Python · C++ · Docker |
-| [**PRELUDE (Ph.D. Research)**](https://github.com/UT-Austin-RPL/PRELUDE) – Robust Perception for Legged Robots | ![Stars](https://img.shields.io/github/stars/UT-Austin-RPL/PRELUDE?style=social) | PyTorch · C++ · CV |
+| [**builD-chatGpT**](https://github.com/Alexyskoutnev/builD-chatGpT) – Making a LLM funny | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/builD-chatGpT?style=social) | Python · PyTorch · FastAPI |
+| [**SecurityGPT**](https://github.com/Alexyskoutnev/SecurityGPT) – AI red-team assistant | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/SecurityGPT?style=social) | LLM · PyTorch |
+| [**QTOS**](https://github.com/Alexyskoutnev/Quadruped-Trajectory-Optimization-Stack) – Quadruped trajectory optimization (Ph.D. research) | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/Quadruped-Trajectory-Optimization-Stack?style=social) | Python · C++ · Docker |
+| [**PRELUDE**](https://github.com/UT-Austin-RPL/PRELUDE) – Robust perception for legged robots (Ph.D. research) | ![Stars](https://img.shields.io/github/stars/UT-Austin-RPL/PRELUDE?style=social) | PyTorch · C++ · CV |
 
 ---
 

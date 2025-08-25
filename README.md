@@ -51,8 +51,8 @@
 ---
 
 ### 🧑‍💻 In the Trenches
-- **Athena AIC — Founding Engineer**  
-  Architecting a generative-AI market-intelligence platform that turns raw data into real-time, investor-grade insights.
+- **NAII — AI Research Engineer**  
+  Building AI-driven hardware coding agents for FPGA design automation
   
 - **NICE Intelligence — AI Researcher/Co-Founder**  
   Researching cool ideas in large-language models, machine learning, and deep learning and putting Nashville’s AI scene on the map

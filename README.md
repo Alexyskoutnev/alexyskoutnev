@@ -51,7 +51,7 @@
 ---
 
 ### 🧑‍💻 In the Trenches
-- **NAII — AI Research Engineer**  
+- **NAII — AI Research Engineer (Day Job)**  
   Building AI-driven hardware coding agents for FPGA design automation
   
 - **NICE Intelligence — AI Researcher/Co-Founder**  

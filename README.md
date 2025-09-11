@@ -43,6 +43,7 @@
 ### 🛠 Previous Indie Projects
 | Project | ⭐ Stars | Stack / Notes |
 |---------|:------:|--------------|
+| [**Loan Processing System**](https://github.com/Alexyskoutnev/loan-processsing-system) – Bank statement parser & loan decision engine | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/loan-processsing-system?style=social) | React · LLM · Banking  |
 | [**builD-chatGpT**](https://github.com/Alexyskoutnev/builD-chatGpT) – Making a LLM funny from scratch | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/builD-chatGpT?style=social) | Python · PyTorch |
 | [**SecurityGPT**](https://github.com/Alexyskoutnev/SecurityGPT) – AI red-team assistant | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/SecurityGPT?style=social) | LLM · PyTorch |
 | [**QTOS**](https://github.com/Alexyskoutnev/Quadruped-Trajectory-Optimization-Stack) – Quadruped trajectory optimization (Ph.D. research) | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/Quadruped-Trajectory-Optimization-Stack?style=social) | Python · C++ · Docker |

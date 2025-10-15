@@ -52,8 +52,8 @@
 ---
 
 ### 🧑‍💻 In the Trenches
-- **NAII — AI Research Engineer (Day Job)**  
-  Building AI-driven hardware coding agents for FPGA design automation
+- **Thomas Reuters — AI Engineer (Day Job)**  
+  AI in Financial Due Diligence
   
 - **NICE Intelligence — AI Researcher/Co-Founder**  
   Researching cool ideas in large-language models, machine learning, and deep learning and putting Nashville’s AI scene on the map

@@ -54,8 +54,5 @@
 ### 🧑‍💻 In the Trenches
 - **Thomas Reuters — AI Engineer (Day Job)**  
   AI in Financial Due Diligence
-  
-- **NICE Intelligence — AI Researcher/Co-Founder**  
-  Researching cool ideas in large-language models, machine learning, and deep learning and putting Nashville’s AI scene on the map
 
 <!-- END OF README -->

@@ -52,7 +52,7 @@
 ---
 
 ### 🧑‍💻 In the Trenches
-- **Thomas Reuters — AI Engineer (Day Job)**  
-  AI in Financial Due Diligence
+- **Thomas Reuters — AI Engineer **  
+  AI Research Harness
 
 <!-- END OF README -->

@@ -43,7 +43,7 @@
 ### 🛠 Projects
 | Project | ⭐ Stars | Stack / Notes |
 |---------|:------:|--------------|
-| [**TWIN**](https://github.com/Alexyskoutnev/TWIN-ARC-AGI-3) – Writes the game it plays: 93.3 on ARC-AGI-3 | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/TWIN-ARC-AGI-3?style=social) | LLM agents · World models |
+| [**TWIN**](https://github.com/Alexyskoutnev/TWIN-ARC-AGI-3) – Writes the game it plays: World Model For ARC-AGI-3 | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/TWIN-ARC-AGI-3?style=social) | LLM agents · World models |
 | [**Loan Processing System**](https://github.com/Alexyskoutnev/loan-processsing-system) – Bank statement parser & loan decision engine | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/loan-processsing-system?style=social) | React · LLM · Banking  |
 | [**builD-chatGpT**](https://github.com/Alexyskoutnev/builD-chatGpT) – Making a LLM funny from scratch (Work in Progress) | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/builD-chatGpT?style=social) | Python · PyTorch |
 | [**SecurityGPT**](https://github.com/Alexyskoutnev/SecurityGPT) – AI red-team assistant | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/SecurityGPT?style=social) | LLM · PyTorch |

@@ -43,9 +43,9 @@
 ### 🛠 Projects
 | Project | ⭐ Stars | Stack / Notes |
 |---------|:------:|--------------|
-| [**TWIN**](https://github.com/Alexyskoutnev/TWIN-ARC-AGI-3) – Writes the game it plays: World Model For ARC-AGI-3 | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/TWIN-ARC-AGI-3?style=social) | LLM agents · World models |
+| [**TWIN**](https://github.com/Alexyskoutnev/TWIN-ARC-AGI-3) – Writes the game it plays: World Model For ARC-AGI-3 (Ph.D research) | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/TWIN-ARC-AGI-3?style=social) | LLM agents · World models |
 | [**Loan Processing System**](https://github.com/Alexyskoutnev/loan-processsing-system) – Bank statement parser & loan decision engine | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/loan-processsing-system?style=social) | React · LLM · Banking  |
-| [**builD-chatGpT**](https://github.com/Alexyskoutnev/builD-chatGpT) – Making a LLM funny from scratch (Work in Progress) | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/builD-chatGpT?style=social) | Python · PyTorch |
+| [**builD-chatGpT**](https://github.com/Alexyskoutnev/builD-chatGpT) – Making a LLM funny from scratch (WIP) | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/builD-chatGpT?style=social) | Python · PyTorch |
 | [**SecurityGPT**](https://github.com/Alexyskoutnev/SecurityGPT) – AI red-team assistant | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/SecurityGPT?style=social) | LLM · PyTorch |
 | [**QTOS**](https://github.com/Alexyskoutnev/Quadruped-Trajectory-Optimization-Stack) – Quadruped trajectory optimization (Ph.D. research) | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/Quadruped-Trajectory-Optimization-Stack?style=social) | Python · C++ · Docker |
 | [**PRELUDE**](https://github.com/UT-Austin-RPL/PRELUDE) – Robust perception for legged robots (Ph.D. research) | ![Stars](https://img.shields.io/github/stars/UT-Austin-RPL/PRELUDE?style=social) | PyTorch · C++ · CV |

@@ -43,7 +43,7 @@
 ### 🚀 Current Research
 | Project | ⭐ Stars | Stack / Notes |
 |---------|:------:|--------------|
-| [**TWIN**](https://github.com/Alexyskoutnev/TWIN-ARC-AGI-3) – Playing an unknown game by writing its source code at test time: 93.3 on ARC-AGI-3 | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/TWIN-ARC-AGI-3?style=social) | Python · LLM agents · World models |
+| [**TWIN**](https://github.com/Alexyskoutnev/TWIN-ARC-AGI-3) – Writes the game it plays: 93.3 on ARC-AGI-3 | ![Stars](https://img.shields.io/github/stars/Alexyskoutnev/TWIN-ARC-AGI-3?style=social) | LLM agents · World models |
 
 ---
 
